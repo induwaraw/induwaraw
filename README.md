@@ -1,24 +1,25 @@
 <h1 align="center">Hi, I'm Induwara Weerarathna 👋</h1>
-<h3 align="center">Full Stack Software Engineer · Creator of Drock OS · Tech Drock</h3>
+<h3 align="center">Full Stack Software Engineer · Flutter Developer · Creator of Drock OS · Tech Drock</h3>
 
 ---
 
 ### 💻 About Me
 
 - 🛠️ **Full Stack Software Engineer** building software systems, custom platforms, and Android/Linux projects
+- 📱 **Flutter Developer** crafting cross-platform mobile & web apps
 - 🚀 Founder & lead developer of **Drock OS** — an Android-x86 based dual-boot OS that optimizes low-end PCs for high-graphic mobile gaming
-- 🎥 Creator of **Tech Drock** on YouTube, sharing dev tutorials and tech content
+- 🎥 Creator of **Tech Drock** on YouTube (25K+ subscribers), sharing dev tutorials and tech content
 - 🧩 Core developer at **SMIK Creations**, building custom tech solutions
 - 🏫 Former IT Club President, S. Thomas' College, Bandarawela
 - 📍 Based in Sri Lanka 🇱🇰
 
 ### 🧰 Tech & Focus
 
-`Android` · `Linux` · `Full Stack Development` · `Operating Systems` · `Custom Platforms`
+`Flutter` · `Dart` · `Android` · `Linux` · `Full Stack Development` · `Operating Systems` · `Custom Platforms`
 
 ### ♟️ Beyond Code
 
-FIDE-rated chess player (Sri Lanka) and chess coach at SMIK Chess Academy.
+**Arena International Master (AIM)** — FIDE-rated chess player (Sri Lanka) and chess coach at SMIK Chess Academy.
 
 ---
 
@@ -45,9 +46,9 @@ FIDE-rated chess player (Sri Lanka) and chess coach at SMIK Chess Academy.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=induwaraw&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=induwaraw&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=induwaraw&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=induwaraw&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
